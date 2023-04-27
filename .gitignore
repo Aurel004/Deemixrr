@@ -261,6 +261,6 @@ __pycache__/
 *.pyc
 *.pubxml
 
-appsettings.Development.json
-appsettings.json
-deemixrr.db
+# appsettings.Development.json
+# appsettings.json
+# deemixrr.db
