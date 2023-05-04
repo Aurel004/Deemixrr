@@ -10,7 +10,7 @@ namespace Deemixrr.Services
     public class DeemixService : IDeemixService
     {
         private readonly string BaseCommand = "{0} -p {1}";
-        private string _arlPath = "/config/.config/deemix/.arl";
+        private string _arlPath = "D:/Users/Aurélien/Downloads/Deemixrr/Deemixrr/.arl";
 
         public void DownloadArtist(Artist artist)
         {

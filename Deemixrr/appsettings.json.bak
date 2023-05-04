@@ -6,7 +6,7 @@
         "Workers":2
     },
     "JobConfiguration":{
-        "GetUpdatesRecurringJob":"* * * * *",
+        "GetUpdatesRecurringJob":"0 2 * * *",
         "SizeCalculatorRecurringJob":"0 12 * * *"
     },
     "DelayCOnfiguration":{
